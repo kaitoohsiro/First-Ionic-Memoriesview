@@ -1,0 +1,11 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "Vue Memories",
+  "webDir": "public",
+  "bundledWebRuntime": false,
+  "Plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
